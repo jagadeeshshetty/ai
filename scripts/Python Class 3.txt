@@ -1,0 +1,8 @@
+
+Class 3:
+--------
+Iteration
+Guess and check
+Bisection search
+Approximation algos
+
