@@ -1,4 +1,5 @@
 
+# My Secret Number Game.
 # subject + verb + object
 # The product of the first two digits + is less than + 25
 
